@@ -2,7 +2,7 @@
 
 What's inside:
 - Ubuntu 16.04
-- openjdk-8-jre-headless
+- openjdk-8-jdk-headless
 - [sbt](http://www.scala-sbt.org) - The interactive build tool for Java and Scala projects
 
 ## How to get

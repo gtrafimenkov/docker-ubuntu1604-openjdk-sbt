@@ -1,4 +1,4 @@
-FROM gtrafimenkov/ubuntu1604-openjdk-8-jre
+FROM gtrafimenkov/ubuntu1604-openjdk-8-jdk
 
 MAINTAINER gennady.trafimenkov@gmail.com
 
